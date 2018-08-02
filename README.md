@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/libphonenumber-js.svg?style=flat-square)](https://www.npmjs.com/package/libphonenumber-js)
 [![npm downloads](https://img.shields.io/npm/dm/libphonenumber-js.svg?style=flat-square)](https://www.npmjs.com/package/libphonenumber-js)
-[![coverage](https://img.shields.io/coveralls/catamphetamine/libphonenumber-js/master.svg?style=flat-square)](https://coveralls.io/r/catamphetamine/libphonenumber-js?branch=master)
+[![coverage](https://img.shields.io/coveralls/catamphetamine/libphonenumber-js/master.svg?style=flat-square)](https://coveralls.io/r/catamphetamine/libphonenumber-js?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/catamphetamine--libphonenumber-js.svg)](https://www.staging.guardrails.io)
 
 A simpler and smaller rewrite of Google Android's `libphonenumber` library: easy phone number parsing and formatting in javascript.
 
